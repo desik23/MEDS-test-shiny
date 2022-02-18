@@ -1,0 +1,11 @@
+name: myapp
+title:
+username:
+account: desik23
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 5686677
+bundleId: 5595512
+url: https://desik23.shinyapps.io/myapp/
+when: 1645216905.50951
+lastSyncTime: 1645216905.50953
